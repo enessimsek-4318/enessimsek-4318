@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">A Full-Stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F7SvE&psig=AOvVaw0X90tHEN8e-cxOobL3iosi&ust=1680706923240000&source=images&cd=vfe&ved=0CA8QjRxqGAoTCLiOvaq_kP4CFQAAAAAdAAAAABCBAQ">
+<img align="right" alt="Coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F7SvE&psig=AOvVaw0X90tHEN8e-cxOobL3iosi&ust=1680706923240000&source=images&cd=vfe&ved=0CA8QjRxqGAoTCLiOvaq_kP4CFQAAAAAdAAAAABCBAQ](https://tenor.com/tr/view/programmer-rounded-edges-gif-26214286)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enessimsek-4318&label=Profile%20views&color=0e75b6&style=flat" alt="enessimsek-4318" /> </p>
 
 - 🔭 I’m currently working on **Bilgi_Olcer**
