@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">A Full-Stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foctodex.github.com%2Fdaftpunktocat-guy%2F&psig=AOvVaw3DsBQCGcmNTqO6rIRJ5ila&ust=1680707203739000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjpo7DAkP4CFQAAAAAdAAAAABBe">
+
+<img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="Enes" data-noaft="1" align="right" style="width: 465px; height: 345.844px; margin: 0px;">
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enessimsek-4318&label=Profile%20views&color=0e75b6&style=flat" alt="enessimsek-4318" /> </p>
 
 - 🔭 I’m currently working on **Bilgi_Olcer**
@@ -20,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enessimsek-4318&show_icons=true&locale=en" alt="enessimsek-4318" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enessimsek-4318&" alt="enessimsek-4318" /></p>
+
