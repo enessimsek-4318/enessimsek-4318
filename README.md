@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">A Full-Stack developer</h3>
-
 <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="Enes" data-noaft="1" align="right" style="width: 465px; height: 345.844px; margin: 0px;">
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enessimsek-4318&label=Profile%20views&color=0e75b6&style=flat" alt="enessimsek-4318" /> </p>
 
 - 🔭 I’m currently working on **Bilgi_Olcer**
 
+- 🌱 I’m currently learning **React**
+
 - 📫 How to reach me **enes431811@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/enes-şimşek-07234516b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enes-şimşek-07234516b/" height="30" width="40" /></a>
+<a href="https://instagram.com/eenes.simsek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eenes.simsek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enessimsek-4318&show_icons=true&locale=en" alt="enessimsek-4318" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enessimsek-4318&" alt="enessimsek-4318" /></p>
-
