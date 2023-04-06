@@ -2,7 +2,7 @@
 <br/>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
-<img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="Enes" data-noaft="1" align="right" style="width: 465px; height: 345.844px; margin: 0px;">
+<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="Enes" data-noaft="1" align="right" style="width: 465px; height: 345.844px; margin: 0px;">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enessimsek-4318&label=Profile%20views&color=0e75b6&style=flat" alt="enessimsek-4318" /> </p>
