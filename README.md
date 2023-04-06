@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Enes</h1>
-<h3 align="center">A Full-Stack developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Enes)](https://git.io/typing-svg)
+<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Full-Stack+Web+Developer)](https://git.io/typing-svg)
 <img src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb pT0Scc KAlRDb" role="" aria-label="" alt="Enes" data-noaft="1" align="right" style="width: 465px; height: 345.844px; margin: 0px;">
 
 
